@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mobileBuild/static/css/main.93d35bb5.chunk.css",
+    "main.js": "/mobileBuild/static/js/main.e4347f3d.chunk.js",
+    "main.js.map": "/mobileBuild/static/js/main.e4347f3d.chunk.js.map",
+    "runtime-main.js": "/mobileBuild/static/js/runtime-main.310e843d.js",
+    "runtime-main.js.map": "/mobileBuild/static/js/runtime-main.310e843d.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/mobileBuild/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.649568f0.chunk.js": "/mobileBuild/static/js/2.649568f0.chunk.js",
+    "static/js/2.649568f0.chunk.js.map": "/mobileBuild/static/js/2.649568f0.chunk.js.map",
+    "index.html": "/mobileBuild/index.html",
+    "precache-manifest.69c887a9e45bbecf70969ee2914e42dc.js": "/mobileBuild/precache-manifest.69c887a9e45bbecf70969ee2914e42dc.js",
+    "service-worker.js": "/mobileBuild/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/mobileBuild/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.93d35bb5.chunk.css.map": "/mobileBuild/static/css/main.93d35bb5.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.310e843d.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.649568f0.chunk.js",
+    "static/css/main.93d35bb5.chunk.css",
+    "static/js/main.e4347f3d.chunk.js"
+  ]
+}
