@@ -1,4 +1,5 @@
 {
+  "homepage": "http://dungpham318.github.io/mobileBuild",
   "name": "client",
   "version": "0.1.0",
   "private": true,
@@ -35,6 +36,5 @@
   },
   "devDependencies": {
     "gh-pages": "^2.1.1"
-  },
-  "homepage": "http://dungpham318.github.io/mobileBuild"
+  }
 }
